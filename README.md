@@ -13,3 +13,5 @@ c.php will write the cookies into admin.php, be sure to have write access on you
 3. Navigate to admin.php, login with username: **root** password: **toor**
 4. ???
 5. Profit.
+
+
